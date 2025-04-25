@@ -12,7 +12,7 @@ El algoritmo implementado soporta múltiples estados marcados y tiene modo de pr
 
 ### Modo interactivo
 ```bash
-python grover_algorithm.py
+python grover.py
 ```
 El programa solicitará una cadena binaria objetivo y ejecutará el algoritmo para encontrarla. De modo que se generá la función
 ```python
@@ -22,7 +22,7 @@ El programa solicitará una cadena binaria objetivo y ejecutará el algoritmo pa
 
 ### Modo de prueba
 ```bash
-python grover_algorithm.py test
+python grover.py test
 ```
 Ejecuta una serie de casos predefinidos para verificar el funcionamiento del algoritmo.
 
